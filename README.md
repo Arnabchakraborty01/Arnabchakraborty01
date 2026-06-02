@@ -23,13 +23,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArnabChakraborty01&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f8f8f8&area=true&hide_border=true" />
 </p>
 
-## 💻 Language Statistics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArnabChakraborty01&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArnabChakraborty01&theme=github_dark" />
-</p>
-
 ## 📊 GitHub Analytics
 
 <p align="center">
