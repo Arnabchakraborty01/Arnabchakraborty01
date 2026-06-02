@@ -23,3 +23,8 @@
 <br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;MERN+Stack+Developer;Cloud+%26+DevOps+Learner" />
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArnabChakraborty01&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f8f8f8&area=true&hide_border=true" />
+</p>
